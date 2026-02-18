@@ -61,7 +61,7 @@ const Navbar: React.FC = () => {
     >
       <div className="px-6 py-4 flex justify-between items-center">
         <Link to="/" className="text-xl font-bold tracking-tight text-neutral-900" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          HTRG<span className="text-neutral-500">?</span>
+          HTRG.<span className="text-neutral-500">?</span>
         </Link>
 
         {/* Desktop Menu */}

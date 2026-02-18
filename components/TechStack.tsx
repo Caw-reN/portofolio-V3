@@ -16,7 +16,7 @@ const TechStack: React.FC = () => {
           transition={{
             repeat: Infinity,
             ease: "linear",
-            duration: 30, // Kecepatan animasi
+            duration: 10, // Kecepatan animasi
           }}
         >
           {marqueeSkills.map((skill, index) => (

@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
             </p>
             
             <a 
-              href="mailto:hello@alex.dev" 
+              href="mailto:hibrizi@smkkg2.sch.id" 
               className="inline-block bg-white text-neutral-900 border-2 border-white px-8 py-4 font-bold shadow-[4px_4px_0px_0px_#404040] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[2px_2px_0px_0px_#404040] active:translate-x-[4px] active:translate-y-[4px] active:shadow-none transition-all duration-200 mb-12"
             >
               Kirim Email

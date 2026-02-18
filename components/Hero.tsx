@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
           className="order-2 md:order-1"
         >
           <h2 className="text-sm font-semibold tracking-wider text-neutral-500 uppercase mb-4">
-            Software Engineer
+            Network Engineer
           </h2>
           <h1 className="text-5xl md:text-7xl font-bold text-neutral-900 tracking-tight leading-tight mb-6">
             Halo, saya <br />
