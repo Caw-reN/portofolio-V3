@@ -57,11 +57,11 @@ const Hero: React.FC = () => {
           </h2>
           <h1 className="text-5xl md:text-7xl font-bold text-neutral-900 tracking-tight leading-tight mb-6">
             Halo, saya <br />
-            <span className="text-neutral-400">Alex Wijaya.</span>
+            <span className="text-neutral-400">Hibrizi Tsaqif.</span>
           </h1>
           <p className="text-lg text-neutral-600 mb-8 max-w-lg leading-relaxed">
-            Saya menciptakan pengalaman digital yang minimalis, fungsional, dan estetis. 
-            Fokus pada React, TypeScript, dan UI Design.
+            Bertanggung jawab penuh dalam menjaga keamanan dan stabilitas jaringan sekolah, melakukan perbaikan cepat pada perangkat keras yang bermasalah, 
+            serta memastikan seluruh sistem berjalan lancar guna mendukung kelancaran operasional pendidikan
           </p>
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
             <a 

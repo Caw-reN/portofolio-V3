@@ -1,5 +1,5 @@
 import { Experience, Project, Article, SocialLink, Skill } from './types';
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Github, Instagram, Linkedin, Mail } from 'lucide-react';
 
 export const EXPERIENCES: Experience[] = [
   {
@@ -209,9 +209,9 @@ function getUser(id: string): Promise<User> {
 
 export const SOCIAL_LINKS: SocialLink[] = [
   { platform: 'GitHub', url: 'https://github.com/Caw-reN', icon: Github },
-  { platform: 'LinkedIn', url: 'https://linkedin.com', icon: Linkedin },
-  { platform: 'Twitter', url: 'https://twitter.com', icon: Twitter },
-  { platform: 'Email', url: 'mailto:hello@example.com', icon: Mail },
+  { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/hibrizi-tsaqif-rizky-gunawan-2a9971377/', icon: Linkedin },
+  { platform: 'Instagram', url: 'https://instagram.com/hateerge', icon: Instagram },
+  { platform: 'Email', url: 'mailto:hibrizi@smkkg2.sch.id', icon: Mail },
 ];
 
 export const SKILLS: Skill[] = [
